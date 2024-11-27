@@ -1,20 +1,24 @@
 h1 {
     text-align: center;
-    margin: block;
-    font-size: 5em;
-    margin-block-start: 0em;
-    margin-block-end: 0em;
-    font-weight: initial;
     color: white;
 }
-h2{
-    text-align: center;
-    color: white;
+.div1{
+    height: 300px;
+    width: 300px;
+    background-color: red;
 }
-p{
-    color: white;
+.div2{
+    height: 300px;
+    width: 300px;
+    background-color: white;
 }
-table{
-    color: white;
-    text-align: center;
+.div3{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
+
+.divmaman{
+    display: flex;
+    margin-left: 10em;
 }
